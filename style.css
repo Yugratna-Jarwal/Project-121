@@ -1,0 +1,8 @@
+body{
+    background: fuchsia;
+    font-family: 'Viaoda Libre', cursive;
+}
+body img{
+    width: 100px;
+    height: 100px;
+}
